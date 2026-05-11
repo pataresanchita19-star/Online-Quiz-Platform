@@ -1,1 +1,1 @@
-# Online-Quiz-Platform
+Our online quiz platform is a web-based application designed to make learning interactive and engaging. It allows users to participate in quizzes on different subjects, test their knowledge, and view scores instantly. The platform provides features like user login, timed quizzes, automatic result generation, score tracking, and performance analysis. Admins can create, update, and manage quizzes easily. It is useful for students, teachers, training institutes, and online learning environments to conduct assessments efficiently and securely.
